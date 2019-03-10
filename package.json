@@ -1,0 +1,22 @@
+{
+  "name": "cgireport",
+  "version": "0.0.1",
+  "description": "report for cgi",
+  "main": "./src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "report"
+  ],
+  "author": "salomezhang",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5"
+  }
+}
